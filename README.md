@@ -19,3 +19,5 @@ new CTAutoCompleteField(
 Important:<br>
 javascript will automatically create input field type hidden based on $hiddenTitle.<br/>
 So Category & CategoryID will be saved into database if form submitted.
+
+Credit : https://github.com/tractorcow/silverstripe-autocomplete
